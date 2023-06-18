@@ -1,0 +1,80 @@
+Report Generated on:                    2022-07-24 22:14:33.595993
+
+Name:                                   Saad
+Contact Number:                         s
+Address:                                s
+
+Your item(s) will be delivered on:      2022-07-24
+
+------------------------------------------------------------------------------------------------------
+S.No:       Product Name:       Price:              Quantity:           Total Cost:
+------------------------------------------------------------------------------------------------------
+1:          Apples              15                  200                 3000 PKR
+2:          Bananas             10                  1                   10   PKR
+The Delivery Fee is:                                                    300  PKR 
+------------------------------------------------------------------------------------------------------
+The total bill is:                                                      3310 PKR
+Congratulation!!!!!! You have recieved a discount of:                   5%
+The Discounted Total bill is:                                           3144.5 PKR
+
+
+
+Report Generated on:                    2022-07-24 22:33:22.099367
+
+Name:                                   Saad
+Contact Number:                         s
+Address:                                s
+
+Your item(s) will be delivered on:      2022-07-24
+
+------------------------------------------------------------------------------------------------------
+S.No:       Product Name:       Price:              Quantity:           Total Cost:
+------------------------------------------------------------------------------------------------------
+1:          Biscuits            100                 100                 10000PKR
+2:          Bread               90                  50                  4500 PKR
+The Delivery Fee is:                                                    300  PKR 
+------------------------------------------------------------------------------------------------------
+The total bill is:                                                      14800 PKR
+Congratulation!!!!!! You have recieved a discount of:                   10%
+The Discounted Total bill is:                                           13320.0 PKR
+
+
+
+Report Generated on:                    2022-07-24 22:37:35.990796
+
+Name:                                   Saad
+Contact Number:                         s
+Address:                                s
+
+Your item(s) will be delivered on:      2022-07-24
+
+------------------------------------------------------------------------------------------------------
+S.No:       Product Name:       Price:              Quantity:           Total Cost:
+------------------------------------------------------------------------------------------------------
+1:          Chips               100                 10                  1000 PKR
+2:          Bread               90                  5                   450  PKR
+The Delivery Fee is:                                                    300  PKR 
+------------------------------------------------------------------------------------------------------
+The total bill is:                                                      1750 PKR
+
+
+
+Report Generated on:                    2022-07-24 22:59:29.424433
+
+Name:                                   Saad
+Email Address:                          s
+Contact Number:                         s
+Address:                                s
+
+Your item(s) will be delivered on:      2022-07-24
+
+------------------------------------------------------------------------------------------------------
+S.No:       Product Name:       Price:              Quantity:           Total Cost:
+------------------------------------------------------------------------------------------------------
+1:          Bread               90                  10                  900  PKR
+The Delivery Fee is:                                                    300  PKR 
+------------------------------------------------------------------------------------------------------
+The total bill is:                                                      1200 PKR
+
+
+
